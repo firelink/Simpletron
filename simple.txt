@@ -1,0 +1,19 @@
+0. 1099 - Read input into 99
+1. 1020 - Read input into 20
+2. 2020 - Load input from 20
+3. 4217 - Branch to halt if zero
+4. 2001 - Load 1 into accumulator
+5. 3099 - Add 99 to accumulator
+6. 2101 - Store accumulator at 1
+7. 2002 - Load 2 into accumulator
+8. 3099 - Add 99 to accumulator
+9. 2102 - Store accumulator at 2
+10. 2098 - Load 1 to add
+11. 3020 - Add 20 to 2098
+12. 2198 - Store as new 98
+13. 2011 - Load 11 into accumulator
+14. 3099 - Add 1 to accumulator
+15. 2111 - Store as new 11
+16. 4001 - Go back to 1
+17. 1198 - Write out the sum
+18. 4300 - Halt
